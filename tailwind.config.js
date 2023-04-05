@@ -20,8 +20,12 @@ module.exports = {
         2. Review paragraphs inside the quotations have the same color as well, but are at 70% opacity */
       },
       fontWeight:{
+        400: "400",
         500: "500",
         600: "600"
+      },
+      lineHeight: {
+        '2': '0.5rem',
       }
     },
     fontFamily: {
